@@ -13,12 +13,12 @@ Programming Languedges
   - Whilst I do have projects priorly built during my BSc and MSc, all projects that will be pushed onto this Git are going to be built in the present so that           employers have an accurate understanding of my capabilities and a notion of known languedges.
   
 Languedges/software known at the moment:
-  -Java - Advanced
-  -Python - Medium
-  -R Studio - Advanced
-  -Matlab - Medium
-  -C# - Advanced
-  -GitBash - Medium
+  - Java - Advanced
+  - Python - Medium
+  - R Studio - Advanced
+  - Matlab - Medium
+  - C# - Advanced
+  - GitBash - Medium
         
     
   
