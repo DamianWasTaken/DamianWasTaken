@@ -4,7 +4,7 @@
 
 - Have about 1 year of experience working in a Software Developer capacity in Pytho and C++
   
-Languedges/software known at the moment:
+languages/software known at the moment:
   - Python - Medium/Advanced
   - Java - Medium
   - C++ - Medium
