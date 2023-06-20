@@ -3,6 +3,7 @@
 - I'm a Brunel University BSc Computer science Artificial intelligence and MSc in Artificial Intelligence Graduate
 
 - Have about 1 year of experience working in a Software Developer capacity in Pytho and C++
+- 5 months and counting as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
   
 languages/software known at the moment:
   - Python - Medium/Advanced
