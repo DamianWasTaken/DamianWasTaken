@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @DamianWasTaken
+- my other account @vasilewckdrzr
+  -> contains work and other side projects commits
 
 - I'm a Brunel University BSc Computer science Artificial intelligence and MSc in Artificial Intelligence Graduate
 
