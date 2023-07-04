@@ -5,23 +5,18 @@
 - I'm a Brunel University BSc Computer science Artificial intelligence and MSc in Artificial Intelligence Graduate
 
 - Have about 1 year of experience working in a Software Developer capacity in Pytho and C++
-- 5 months and counting as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
-  
-languages/software known at the moment:
-  - Python - Medium/Advanced
-  - Java - Medium
-  - C++ - Medium
-  - R Studio - Medium
-  - Matlab - low (only exposure through Machine learning)
-  - C# - Medium
-  - GitBash - Medium
+- 2 months in a contract position working on an IOT event driven project
+- 6 months and counting as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
 
 Skills:
+  - Fullstack Development
+  - C#, Python, C++, JS
+  - Angular, React
+  - Databases(mysql, mongo, postgresql)  
   - Machine/Deep learning
   - Data Science
-  - Backend Development
-  - web development (somewhat work in progress)
-  - MicroServices/CD (learning)
+  - MicroServices
+
         
     
   
