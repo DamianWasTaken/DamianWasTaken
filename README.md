@@ -1,21 +1,22 @@
 - 👋 Hi, I’m @DamianWasTaken
-- my other account @vasilewckdrzr
-  -> contains work and other side projects commits
 
 - I'm a Brunel University BSc Computer science Artificial intelligence and MSc in Artificial Intelligence Graduate
 
-- Have about 1 year of experience working in a Software Developer capacity in Pytho and C++
+Professionally:
+- Have about 1 year of experience working in a Software Developer capacity in Python and C++
 - 2 months in a contract position working on an IOT event driven project
-- 6 months and counting as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
+- 1 year as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
+- 6 months as a Software architect, Go, SQL Server, Python, APIs, Microservices, Docker, chron jobs, azure
 
 Skills:
   - Fullstack Development
-  - C#, Python, C++, JS
+  - C#, GO, Python, C++, JS
   - Angular, React
-  - Databases(mysql, mongo, postgresql)  
+  - Databases(SQL server, mongo, postgresql)  
   - Machine/Deep learning
   - Data Science
   - MicroServices
+  - Blockchain(solidity, foundry, hardhat)
 
         
     
