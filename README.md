@@ -4,7 +4,9 @@
 - Masters in AI and undergrad in "Computer Science: Artificial Intelligence"
 
 Professionally:
+
 - about 5 year of experience working in a fullstack and data engineer related positions
+  
 -> Amadeus [1 year]: Back-end role, C++ and Python, SQL dbs, a lot of legacy
 -> WCKD RZR [1+ year]: Full Stack Role, C#, Python and Typescript, SQL and noSQL, event driven, microservices, Start up
 -> Bordeaux Index [2 years]: Full Stack Role, GO lang and Python, SQL and noSQL, event driven, microservices, CICDs, Azure Infra, very data heavy
