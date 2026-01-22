@@ -1,22 +1,28 @@
 - 👋 Hi, I’m @DamianWasTaken
 
-- I'm a Brunel University BSc Computer science Artificial intelligence and MSc in Artificial Intelligence Graduate
+- Fullstack engineer, with background in DataScience and ML/DL
+- Masters in AI and undergrad in "Computer Science: Artificial Intelligence"
 
 Professionally:
-- Have about 1 year of experience working in a Software Developer capacity in Python and C++
-- 2 months in a contract position working on an IOT event driven project
-- 1 year as a Software Engineer, Angular, C#, python, typescript, microservices and machinelearning (python)
-- 6 months as a Software architect, Go, SQL Server, Python, APIs, Microservices, Docker, chron jobs, azure
+- about 5 year of experience working in a fullstack and data engineer related positions
+    -> Amadeus [1 year]: Back-end role, C++ and Python, SQL dbs, a lot of legacy
+    -> WCKD RZR [1+ year]: Full Stack Role, C#, Python and Typescript, SQL and noSQL, event driven, microservices, Start up
+    -> Bordeaux Index [2 years]: Full Stack Role, GO lang and Python, SQL and noSQL, event driven, microservices, CICDs, Azure Infra, very data heavy
+    -> VisionRT [6+ Months]: Full stack role, Python and PHP, Integrations, PHP, SQL, CICD, Azure infra, Integrations and custom software heavy
+    -> Carpata [1 Month]: Full stack role, Python and TS, CICD, AWS infra, graphql
+
+
+
 
 Skills:
   - Fullstack Development
-  - C#, GO, Python, C++, JS
-  - Angular, React
+  - Language Agnostic, have programmed 10+ languages in professional experience
+  - Angular and React FE, have worked with pure JS too
   - Databases(SQL server, mongo, postgresql)  
   - Machine/Deep learning
-  - Data Science
+  - Eventdriven (kafka, rabbitmq, NATs)
   - MicroServices
-  - Blockchain(solidity, foundry, hardhat)
+  - Data Engineering
 
         
     
